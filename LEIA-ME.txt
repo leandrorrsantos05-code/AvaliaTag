@@ -1,0 +1,15 @@
+AVALIATAG - ETAPA 1
+Arquivos:
+- index.html: estrutura e conteúdo da página
+- styles.css: identidade visual e layout responsivo
+- script.js: menu mobile e ano automático
+
+COMO TESTAR NO ANDROID:
+1. Extraia o ZIP em uma pasta.
+2. Abra index.html com Chrome ou com um editor de código que tenha pré-visualização.
+3. Para publicar depois, envie os três arquivos para um repositório GitHub e conecte a um serviço de hospedagem estática.
+
+ANTES DE PUBLICAR:
+- Troque contato@avaliatag.com.br pelo e-mail oficial.
+- Confira nome, textos, links e informações legais.
+- Esta é uma página institucional demonstrativa. Cadastro, login e módulos ainda não estão conectados a banco de dados.
